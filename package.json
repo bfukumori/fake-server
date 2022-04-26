@@ -1,0 +1,17 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fake-server"
+  ],
+  "author": "Bruno Fukumori",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
