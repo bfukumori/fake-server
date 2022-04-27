@@ -1075,7 +1075,7 @@
   ],
   "continents": [
     {
-      "id": 1,
+      "id": "1",
       "name": "asia",
       "text": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
       "totalCountries": 50,
@@ -1083,14 +1083,14 @@
       "totalCities": 200,
       "locations": [
         {
-          "id": 1,
+          "id": "1",
           "city": "Hong Kong",
           "country": "China",
           "image": "/images/asia/hongkong.jpg",
           "flag": "/images/asia/cn.svg"
         },
         {
-          "id": 2,
+          "id": "2",
           "city": "Bangkok",
           "country": "Tailândia",
           "image": "/images/asia/bangkok.jpg",
@@ -1207,14 +1207,14 @@
           "flag": "/images/oceania/au.svg"
         },
         {
-          "id": 2,
+          "id": "2",
           "city": "Manukau",
           "country": "Nova Zelândia",
           "image": "/images/oceania/manukau.jpg",
           "flag": "/images/oceania/nz.svg"
         },
         {
-          "id": 3,
+          "id": "3",
           "city": "Palu",
           "country": "Indonésia",
           "image": "/images/oceania/palu.jpg",
